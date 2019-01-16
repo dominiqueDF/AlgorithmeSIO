@@ -10,3 +10,23 @@ ex02 : Validation d'une saisie de l'utilisateur
 ex03 : Affichage si une année est bisextile ou non
 
 ex04 : Calcul d'une heure d'arrivée (heure de départ et temps donnés)
+
+ex05 : Calcul d'un temps de trajet (heure de départ et d'arrivée données)
+
+ex06 : Affichage de la table de multiplication d'un nombre
+
+ex07 : Affichage des nombres entiers compris entre deux nombres
+
+ex08 : Affichage de la somme des nombres entiers compris entre deux nombres
+
+ex09 : Affichage du produit des nombres entiers compris entre deux nombres
+
+ex10 : Affichage du plus grand nombre parmis 10 saisis par l'utilisateur
+
+ex11 : Affichage du plus grand nombre parmis ceux saisis par l'utilisateur (0 pour arrêter la saisie)
+
+ex12 : Affichage d'un rendu de monnaie
+
+ex16 : Validation d'un numéro de carte bleue
+
+ex17 : Génération d'un numéro "valide" de carte bleue
