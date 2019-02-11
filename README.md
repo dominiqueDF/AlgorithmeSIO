@@ -27,6 +27,12 @@ ex11 : Affichage du plus grand nombre parmis ceux saisis par l'utilisateur (0 po
 
 ex12 : Affichage d'un rendu de monnaie
 
+ex13 : Jeu de la devinette (trouver un nombre entre 1 et 100)
+
 ex16 : Validation d'un numéro de carte bleue
 
 ex17 : Génération d'un numéro "valide" de carte bleue
+
+ex18 : Test de primalité d'un nombre (a) et recherche des nombres premiers inférieurs à un nombre (b)
+
+dm01 : Extraction de données d'un fichier texte et génération d'un nouveau
